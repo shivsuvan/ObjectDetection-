@@ -86,5 +86,4 @@ After running the scripts, the detected objects will be displayed with bounding 
 This project is for educational purposes. You are free to modify and use it as needed.  
 
 📌 **Created with ❤️ by Shivsuvan  
-```
 
